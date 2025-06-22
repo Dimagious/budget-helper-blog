@@ -1,8 +1,11 @@
 ---
-# the default layout is 'page'
+title: О проекте
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+**Budget Helper** — это мой Telegram Mini App-проект для учёта бюджета.
+
+Он написан на React + NestJS + PostgreSQL и задуман как pet-проект, который вырос в реальное используемое приложение.
+
+➡️ [Смотреть статьи](../posts/)
