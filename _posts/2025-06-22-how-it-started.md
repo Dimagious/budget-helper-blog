@@ -4,6 +4,7 @@ title: "С чего всё началось: идея Budget Helper"
 date: 2025-06-22 10:00:00 +0300
 categories: [проект, вводная]
 tags: [telegram-mini-app, react, nestjs, postgresql]
+order: 1
 ---
 
 Я давно хотел сделать свой pet-проект. Но просто змейка или "ToDo на React" меня не устраивали —  

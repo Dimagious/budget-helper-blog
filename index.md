@@ -15,7 +15,7 @@ permalink: /
 ### 🔹 {{ category.name | capitalize }}
 
 <ul>
-  {% assign posts = category.items | sort: "date" | reverse %}
+  {% assign posts = category.items | sort: "order" %}
   {% for post in posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
