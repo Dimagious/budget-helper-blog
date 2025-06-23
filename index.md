@@ -18,7 +18,7 @@ permalink: /
   {% assign posts = category.items | sort: "order" %}
   {% for post in posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       <small> — {{ post.date | date: "%d.%m.%Y" }}</small>
     </li>
   {% endfor %}
