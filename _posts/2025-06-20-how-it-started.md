@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "С чего всё началось: идея Budget Helper"
-date: 2025-06-22 00:00:00 +0300
+date: 2025-06-20 00:00:00 +0300
 categories: [Введение]
 tags: [telegram-mini-app, react, nestjs, postgresql]
 order: 1

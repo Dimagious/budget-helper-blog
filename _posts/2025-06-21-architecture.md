@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Архитектура и стек проекта Budget Helper"
-date: 2025-06-23 00:00:00 +0300
+date: 2025-06-22 00:00:00 +0300
 categories: [Введение]
 tags: [telegram-mini-app, архитектура, nestjs, react, postgresql]
 order: 2
