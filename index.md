@@ -1,7 +1,7 @@
 ### 🔹 Введение
 
 <ul>
-  {% assign posts = site.categories["введение"] | sort: "order" %}
+  {% assign posts = site.categories["Введение"] | sort: "order" %}
   {% for post in posts %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -13,7 +13,7 @@
 ### 🔹 Backend
 
 <ul>
-  {% assign posts = site.categories["backend"] | sort: "order" %}
+  {% assign posts = site.categories["Backend"] | sort: "order" %}
   {% for post in posts %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
