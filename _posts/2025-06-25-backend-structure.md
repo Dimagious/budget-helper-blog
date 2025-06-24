@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Структура backend и модули NestJS"
-date: 2025-06-23 10:00:00 +0300
-categories: [backend]
+date: 2025-06-25 10:00:00 +0300
+categories: [Backend]
 tags: [nestjs, backend, структура, архитектура]
 order: 1
 ---

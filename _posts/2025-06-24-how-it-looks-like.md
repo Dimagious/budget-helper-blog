@@ -2,7 +2,7 @@
 layout: post
 title: "Как выглядит приложение Budget Helper"
 date: 2025-06-24 10:00:00 +0300
-categories: [введение]
+categories: [Введение]
 tags: [telegram-mini-app, react, ui, скриншоты]
 order: 3
 ---
