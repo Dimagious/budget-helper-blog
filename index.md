@@ -1,5 +1,10 @@
-### 🔹 Введение
+---
+layout: page          # какой макет вам нужен
+title: "📘 Содержание" # заголовок вверху
+permalink: /          # оставляем «/», чтобы это была главная
+---
 
+### 🔹 Введение
 <ul>
   {% assign posts = site.categories["Введение"] | sort: "order" %}
   {% for post in posts %}
@@ -11,7 +16,6 @@
 </ul>
 
 ### 🔹 Backend
-
 <ul>
   {% assign posts = site.categories["Backend"] | sort: "order" %}
   {% for post in posts %}
